@@ -1,0 +1,6 @@
+[submodule "buildable_projects/CyberChef"]
+	path = buildable_projects/CyberChef
+	url = https://github.com/gchq/CyberChef.git
+[submodule "buildable_projects/PSRecon"]
+	path = buildable_projects/PSRecon
+	url = https://github.com/gfoss/PSRecon.git
