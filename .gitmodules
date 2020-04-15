@@ -4,3 +4,6 @@
 [submodule "executables_and_scripts/PSRecon"]
 	path = executables_and_scripts/PSRecon
 	url = https://github.com/gfoss/PSRecon.git
+[submodule "executables_and_scripts/executables_and_scripts/PSRecon"]
+	path = executables_and_scripts/executables_and_scripts/PSRecon
+	url = https://github.com/gfoss/PSRecon.git
