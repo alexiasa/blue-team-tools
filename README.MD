@@ -8,7 +8,7 @@ All projects (so far) are incorporated as Git submodules.
 - [PSRecon](https://github.com/gfoss/PSRecon)
 
 ### Build Required
-- [CyberChef](https://github.com/gchq/CyberChef) - [build](#CyberChef)
+- [CyberChef](https://github.com/gchq/CyberChef) - [build](#cyberchef)
 
 ## Build Instructions
 ### CyberChef
