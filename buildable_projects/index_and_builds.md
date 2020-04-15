@@ -14,4 +14,4 @@ Projects in this directory are incorporated as Git submodules.
 2.`npm install`
 3. `grunt prod`
 
-CyberChef is built and the output is in *build/prod/*. Unzip the CyberChef\_v9.x.x.zip archive wherever you need it to live. Make a browser bookmark for index.html.
+CyberChef is built in *build/prod/*. Unzip the CyberChef\_v9.x.x.zip archive wherever you need it to live. Open CyberChef\_v9.x.x.html in a browser to access the app.
